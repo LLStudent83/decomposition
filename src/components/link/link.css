@@ -1,0 +1,8 @@
+.Link {
+    color: blue;
+    text-decoration: none;
+}
+
+.Link:nth-child(n+2) {
+    margin-left: 10px;
+}
